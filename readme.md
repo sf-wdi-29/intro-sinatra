@@ -94,7 +94,7 @@ run FirstSinatraApp
 
 #### Our First Route, Our First Controller Action
 
-We'll make a GET request, and in the next modeul, we'll talk about the different types of requests you can make to your server. For now, you can imagine that a GET request is for when you need to GET some information and spit something out to the client.
+We'll make a GET request, and in the next module, we'll talk about the different types of requests you can make to your server. For now, you can imagine that a GET request is for when you need to GET some information and spit something out to the client.
 
 Our first route, and coincidentally, our first controller action:
 
