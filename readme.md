@@ -57,7 +57,7 @@ Now, `touch app.rb` and `git init` so we can keep track of our progress.
 
 ...And now, we're ready to start writing some code.
 
-## Setting up our first mini app - Codealong (15 mins)
+## Setting up our first mini app - Catch-up (15 mins)
 `app.rb` is where most of our code can go for now. Later we'll have too much and will want to break it up into smaller pieces. To start, let's keep it simple.
 
 We'll need to make 4 things, that's it. Write these down on the board or on your desk, so you can remember them and cross them out as we go. We'll basically need one of these every time we make a new piece of our application, it can be our checklist for what to do.
@@ -110,7 +110,7 @@ See the URL & port number? copy that, open it in your browser! http://localhost:
 
 Cancel the server (ctrl + c in terminal), change the words, & restart.
 
-## Creating A View - Codealong (15 mins)
+## Creating A View - Catch-up (15 mins)
 
 That's awesome - great start, but we can't just be rendering _text_. We need some HTML.
 
