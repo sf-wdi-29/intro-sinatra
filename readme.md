@@ -215,3 +215,8 @@ Wow, you've set up a Sinatra app from scratch - writing routes and controller ac
 
 - What do M, V, & C all stand for? What are each of their roles?
 - What's a rubygem, and what does Bundler do?
+
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
